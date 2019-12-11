@@ -1,0 +1,14 @@
+{
+  "name": "quick-quiz",
+  "version": "0.1.0",
+  "description": "A game of generated quizzes",
+  "main": "server/main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-google": "^0.14.0",
+    "ip": "^1.1.5"
+  }
+}
